@@ -9,7 +9,7 @@ public class ElectronicItemDetails {
         return itemHashMap.get(name);
     }
 
-    // main methid
+    // main method
     public static void main(String[] args) {
         HashMap<String, Double> itemHashMap = new HashMap<String, Double>();
         itemHashMap.put("TV", 1500.00);

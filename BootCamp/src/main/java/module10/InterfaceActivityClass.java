@@ -2,7 +2,7 @@ package module10;
 // main class to test Bike and Car
 
 public class InterfaceActivityClass {
-// main methid
+// main method
 
     public static void main(String[] args) {
         Bike bike = new Bike();
